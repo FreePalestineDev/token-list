@@ -1,0 +1,18 @@
+{
+  "name": "Free Palestine",
+  "symbol": "GAZA",
+  "description": "A meme token in support of the Free Palestine movement.",
+  "image": "https://raw.githubusercontent.com/FreePalestineDev/token-list/FreePalestineDev-patch-1/assets/mainnet/2YdX7vFiSGAEEtqumzQzzYno9LmV7nh7FDEndUP5MpP7/logo.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
