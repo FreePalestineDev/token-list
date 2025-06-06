@@ -1,9 +1,10 @@
 {
   "name": "Free Palestine",
   "symbol": "GAZA",
-  "description": "A decentralized token in support of Free Palestine. Fixed supply of 2 billion GAZA tokens. No mint or freeze authority.",
-  "image": "https://raw.githubusercontent.com/FreePalestineDev/token-list/main/assets/mainnet/34zPm9wHHapQJBZ266WiDhbfm3DoDHeFUvFfDn5Uz6sU/logo.png",
+  "uri": "https://raw.githubusercontent.com/FreePalestineDev/token-list/main/assets/mainnet/34zPm9wHHapQJBZ266WiDhbfm3DoDHeFUvFfDn5Uz6sU/metadata.json",
   "seller_fee_basis_points": 0,
+  "description": "A decentralized token in support of Free Palestine.",
+  "image": "https://raw.githubusercontent.com/FreePalestineDev/token-list/main/assets/mainnet/34zPm9wHHapQJBZ266WiDhbfm3DoDHeFUvFfDn5Uz6sU/logo.png",
   "external_url": "https://freepalestine.dev",
   "properties": {
     "files": [
